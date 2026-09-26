@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <defs>
+    <linearGradient id="g2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00c6ff"/>
+      <stop offset="100%" stop-color="#0072ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#g2)"/>
+  <path d="M0 530 C280 480 380 620 640 580 C800 560 980 470 1200 520 L1200 700 L0 700 Z" fill="#0f3f8f"/>
+  <path d="M0 575 C220 510 410 620 700 610 C900 600 1030 520 1200 560 L1200 700 L0 700 Z" fill="#1454b8"/>
+  <text x="80" y="640" font-family="Arial" font-size="56" fill="#fff" font-weight="700">Riverside Sunrise Route</text>
+</svg>
