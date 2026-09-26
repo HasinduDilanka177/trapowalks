@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7F7FD5"/>
+      <stop offset="100%" stop-color="#86A8E7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#g1)"/>
+  <circle cx="240" cy="170" r="70" fill="#fff" fill-opacity="0.35"/>
+  <path d="M0 580 Q250 460 520 540 T1200 520 L1200 700 L0 700 Z" fill="#ffffff55"/>
+  <text x="80" y="620" font-family="Arial" font-size="56" fill="#fff" font-weight="700">Market Mosaic Walk</text>
+</svg>
